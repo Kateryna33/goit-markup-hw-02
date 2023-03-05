@@ -54,10 +54,13 @@ text-align: center;
 letter-spacing: 0.02em;
 }
 
-.h1-title {
+.main-title {
 font-family: 'inferit';
 color: #FFFFFF;
 background: #2E2F42;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
 }
 
 .button {
@@ -122,7 +125,7 @@ line-height: 1.11;
 text-align: center;
 }
 
-.section-conteiner {
+.section-conteiner-hidden {
 font-family: 'inferit';
 font-style: normal;
 font-weight: 700;
@@ -134,8 +137,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.section-conteiner,
-.personal-work {
+.section-second {
 background: #F4F4FD;
 }
 
@@ -180,6 +182,11 @@ color: #4d5ae5;
 text-decoration: none;
 color: #f4f4fd;  
 }
+
+.footer-logo link{
+    color: #4D5AE5;
+    text-decoration: none;
+}
 .body {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -193,6 +200,13 @@ cursor: pointer;
 .btn-active-site{
 background: #404BBF;
 color: #FFFFFF;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+ine-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer;
+
 }
 
 .btn-active-another {
@@ -210,6 +224,7 @@ font-weight: 500;
 font-size: 20px;
 letter-spacing: 0.02em;
 color: #2e2f42;
+font-weight: 500;
 }
 
 .text-foto {
