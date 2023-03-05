@@ -1,10 +1,23 @@
+.body {
+font-family: "Roboto", sans-serif,;
+color: #434455    
+}
+
 .span class {
  color: #4D5AE5;
 }
 
 .header-studio {
-font-family: 'Raleway';
+font-family: 'Raleway' sans-serif,;
+font-weight: 800;
 color: #2E2F42;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+list-style: none;
+ 
 }
 
 .list-menu-link link {
@@ -14,9 +27,10 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1,5px;
 color: #2E2F42;
+text-decoration: none;
 }
 
-.link-info {
+.menu-item {
 font-family: 'inferit';
 font-style: normal;
 font-weight: 400;
@@ -84,6 +98,8 @@ font-size: 36px;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
+line-height: 1.11;
+text-align: center;
 }
 
 .section-conteiner {
