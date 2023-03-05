@@ -1,11 +1,11 @@
 .body {
-font-family: "Roboto", sans-serif,;
+font-family: 'Roboto', sans-serif;
 color: #434455    
 }
 
 .header-logo {
  color: #4D5AE5;
- font-family: "Raleway", sans-serif,;
+ font-family: "Raleway", sans-serif;
  font-weight: 800;
  font-size: 18px;
  line-height: 1.17;
@@ -14,7 +14,7 @@ color: #434455
 }
 
 .header-studio {
-font-family: 'Raleway' sans-serif,;
+font-family: 'Raleway' sans-serif;
 font-weight: 800;
 color: #2E2F42;
 font-size: 18px;
@@ -169,7 +169,7 @@ color: #E7E9FC;
 
 .section-finish {
 background: #2E2F42;
-font-family: "Raleway", sans-serif,;
+font-family: "Raleway", sans-serif;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
@@ -178,6 +178,15 @@ text-transform: uppercase;
 color: #4d5ae5;
 text-decoration: none;
 color: #f4f4fd;  
+}
+.body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+
 }
 
 .btn-active-site{
@@ -190,12 +199,17 @@ color: #4D5AE5;
 background: #F4F4FD;
 }
 
-.menu-picture-foto {
+.menu-picture-foto link {
 color: #2E2F42;
 font-family: 'Roboto';
 font-style: normal;
 font-size: 1,20;
 letter-spacing: 0.02em;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .text-foto {
@@ -204,4 +218,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-size: 1.5;
 letter-spacing: 0.02em;
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
 }
