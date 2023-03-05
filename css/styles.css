@@ -130,4 +130,28 @@ color: #E7E9FC;
 background: #2E2F42;   
 }
 
+.btn-active-site{
+background: #404BBF;
+color: #FFFFFF;
+}
 
+.btn-active-another {
+color: #4D5AE5;
+background: #F4F4FD;
+}
+
+.menu-picture-foto {
+color: #2E2F42;
+font-family: 'Roboto';
+font-style: normal;
+font-size: 1,20;
+letter-spacing: 0.02em;
+}
+
+.text-foto {
+color: #434455;
+font-family: 'Roboto';
+font-style: normal;
+font-size: 1.5;
+letter-spacing: 0.02em;
+}
