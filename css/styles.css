@@ -5,7 +5,7 @@ color: #434455
 
 .header-logo {
  color: #4D5AE5;
- font-family: "Raleway", sans-serif;
+ font-family:"Raleway", sans-serif;
  font-weight: 800;
  font-size: 18px;
  line-height: 1.17;
@@ -14,7 +14,7 @@ color: #434455
 }
 
 .header-studio {
-font-family: 'Raleway' sans-serif;
+font-family:'Raleway' sans-serif;
 font-weight: 800;
 color: #2E2F42;
 font-size: 18px;
@@ -27,11 +27,11 @@ list-style: none;
 }
 
 .list-menu-link link {
-font-family: 'inferit';
+font-family:'inferit';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5px;
+line-height: 1,5;
 color: #2E2F42;
 text-decoration: none;
 }
@@ -203,11 +203,10 @@ background: #F4F4FD;
 color: #2E2F42;
 font-family: 'Roboto';
 font-style: normal;
-font-size: 1,20;
+font-size: 1,2;
 letter-spacing: 0.02em;
 font-weight: 500;
 font-size: 20px;
-line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
@@ -219,6 +218,5 @@ font-style: normal;
 font-size: 1.5;
 letter-spacing: 0.02em;
 font-size: 16px;
-line-height: 1.5;
 color: #434455;
 }
