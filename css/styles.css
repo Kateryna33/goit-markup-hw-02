@@ -1,0 +1,133 @@
+.span class {
+ color: #4D5AE5;
+}
+
+.header-studio {
+font-family: 'Raleway';
+color: #2E2F42;
+}
+
+.list-menu-link link {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,5px;
+color: #2E2F42;
+}
+
+.link-info {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.hero-section {
+background: #2E2F42;
+}
+
+.h1-title {
+font-family: 'inferit';
+color: #FFFFFF;
+background: #2E2F42;
+}
+
+.button {
+flex-direction: row;
+align-items: flex-start;
+background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+background: #4D5AE5;
+}
+
+.btn-active {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+
+.title {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+ul, 
+ol {
+    list-style: none;    
+}
+
+.section-our-work {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.section-conteiner {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+color: #2E2F42;
+}
+
+.section-conteiner,
+.personal-work {
+background: #F4F4FD;
+}
+
+.title-second {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text-third {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.last-word {
+font-family: 'inferit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
+
+.section-finish {
+background: #2E2F42;   
+}
+
+
