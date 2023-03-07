@@ -33,7 +33,7 @@ list-style: none;
 .menu-item link {
     font-weight: 500;
     text-decoration:none;
-    
+
 }
 
 .list-menu-link link {
@@ -121,7 +121,7 @@ ol {
     list-style: none;    
 }
 
-.section-our-work {
+.section-our-work-list {
 font-family: 'inferit';
 font-style: normal;
 font-weight: 700;
@@ -211,10 +211,13 @@ color: #FFFFFF;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
-ine-height: 1.5;
+line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
 
+}
+.button-section-list {
+list-style: none;
 }
 
 .btn-active-another {
