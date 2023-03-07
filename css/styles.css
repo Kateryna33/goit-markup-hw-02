@@ -1,6 +1,7 @@
 .body {
 font-family: 'Roboto', sans-serif;
-color: #434455    
+color: #434455 
+  
 }
 
 .header-logo {
@@ -11,9 +12,10 @@ color: #434455
  line-height: 1.17;
  letter-spacing: 0.03em;
  text-decoration: none;
+ text-transform: uppercase;
 }
 
-.header-studio {
+.header-studio link {
 font-family: 'inferit';
 font-weight: 800;
 color: #2E2F42;
@@ -36,15 +38,19 @@ color: #2E2F42;
 text-decoration: none;
 }
 
-.link-menu {
-font-family: 'inferit';
+.link-menu link {
+font-family:'Roboto' sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 letter-spacing: 0.02em;
 color: #434455;
 text-decoration: none;
+list-style: none;
+color: hover #404BBF;
+focus: #404bbf;
 }
+
 
 .hero-section {
 background: #2E2F42;
@@ -183,8 +189,20 @@ color: #f4f4fd;
 }
 
 .footer-logo link{
-    color: #4D5AE5;
-    text-decoration: none;
+color: #4D5AE5;
+text-decoration: none;
+}
+
+.logo-studio {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
+text-decoration: none;
 }
 .body {
 font-family: "Roboto", sans-serif;
