@@ -10,7 +10,6 @@ color: #434455
  font-size: 18px;
  line-height: 1.17;
  letter-spacing: 0.03em;
- text-transform: uppercase;
  text-decoration: none;
 }
 
@@ -27,11 +26,6 @@ list-style: none;
  
 }
 
-.menu-item link {
-    font-weight: 500;
-    text-decoration:none;
-
-}
 
 .list-menu-link link {
 font-family:'inferit';
@@ -42,7 +36,7 @@ color: #2E2F42;
 text-decoration: none;
 }
 
-.menu-item {
+.link-menu {
 font-family: 'inferit';
 font-style: normal;
 font-weight: 400;
@@ -199,30 +193,30 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
-
 }
 
-.menu-item-second {
-font-family: 'inferit';
+.list-menu-link link {
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1.5px;
 letter-spacing: 0.02em;
 color: #2E2F42;
 text-decoration: none;
 
 }
-
-.link-menu {
-font-family: 'inferit';
+.header-studio {
+font-family: 'Raleway';
 font-style: normal;
-font-weight: 400;
-font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;
-text-decoration: none;   
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17px;
+letter-spacing: 0.03em;
+color: #2E2F42;
+
 }
+
 
 .btn-active-site{
 background: #404BBF;
@@ -244,9 +238,9 @@ color: #4D5AE5;
 background: #F4F4FD;
 }
 
-.menu-work-foto link {
+.menu-picture list {
 color: #2E2F42;
-font-family: 'Roboto';
+font-family: 'Roboto' sans-serif;
 font-style: normal;
 letter-spacing: 0.02em;
 font-weight: 500;
@@ -258,7 +252,7 @@ font-weight: 500;
 
 .text-foto {
 color: #434455;
-font-family: 'Roboto';
+font-family: 'Roboto' sans-serif;
 font-style: normal;
 letter-spacing: 0.02em;
 font-size: 16px;
