@@ -29,13 +29,15 @@ list-style: none;
 }
 
 
-.link-menu link {
+.list-menu-link link {
 font-family:'inferit';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 color: #2E2F42;
 text-decoration: none;
+letter-spacing: 0.02em;
+line-height: 1.5;
 }
 
 .link-menu link {
@@ -47,6 +49,7 @@ letter-spacing: 0.02em;
 color: #434455;
 text-decoration: none;
 list-style: none;
+line-height: 1.5;
 
 }
 
@@ -68,7 +71,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 }
 
-.button {
+.btn-active {
 flex-direction: row;
 align-items: flex-start;
 background: #4D5AE5;
@@ -83,13 +86,15 @@ color: #ffffff;
 cursor: pointer;
 }
 
-.btn-active {
+.button {
 font-family: 'inferit';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 letter-spacing: 0.04em;
 color: #FFFFFF;
+
+
 }
 
 .title {
@@ -243,7 +248,9 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
-background-color: #4d5ae5;
+background: #4d5ae5;
+font-style: normal;
+list-style: none
 
 }
 .button-section-list {
@@ -259,15 +266,17 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
+font-style: normal;
+list-style: none
 }
 
 .menu-work-foto link {
 color: #2E2F42;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
 cursor: pointer;
 }
 
