@@ -29,7 +29,7 @@ list-style: none;
 }
 
 
-.list-menu-link link {
+.link-menu link {
 font-family:'inferit';
 font-style: normal;
 font-weight: 500;
@@ -256,7 +256,7 @@ color: #4D5AE5;
 background: #F4F4FD;
 }
 
-.menu-picture list {
+.menu-work-foto link {
 color: #2E2F42;
 font-family: 'Roboto' sans-serif;
 font-style: normal;
