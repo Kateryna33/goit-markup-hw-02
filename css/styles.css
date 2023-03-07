@@ -2,9 +2,6 @@
 font-family: 'Roboto', sans-serif;
 color: #434455    
 }
-.page-header {
-
-}
 
 .header-logo {
  color: #4D5AE5;
@@ -18,7 +15,7 @@ color: #434455
 }
 
 .header-studio {
-font-family:'Raleway' sans-serif;
+font-family: 'inferit';
 font-weight: 800;
 color: #2E2F42;
 font-size: 18px;
@@ -41,7 +38,6 @@ font-family:'inferit';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
 color: #2E2F42;
 text-decoration: none;
 }
@@ -53,6 +49,7 @@ font-weight: 400;
 font-size: 16px;
 letter-spacing: 0.02em;
 color: #434455;
+text-decoration: none;
 }
 
 .hero-section {
@@ -229,7 +226,6 @@ background: #F4F4FD;
 color: #2E2F42;
 font-family: 'Roboto';
 font-style: normal;
-font-size: 1,2;
 letter-spacing: 0.02em;
 font-weight: 500;
 font-size: 20px;
@@ -242,7 +238,6 @@ font-weight: 500;
 color: #434455;
 font-family: 'Roboto';
 font-style: normal;
-font-size: 1.5;
 letter-spacing: 0.02em;
 font-size: 16px;
 color: #434455;
