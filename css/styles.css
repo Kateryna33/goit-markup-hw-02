@@ -52,6 +52,7 @@ color: var(--modal-overlay-color)
 .list-menu {
 font-weight: 500;
 color: var(--modal-overlay-color);
+font-style: normal;
 
 }
 
@@ -73,6 +74,9 @@ color: var(--pressed-state-color);
 .contact-menu {
 color: var(--text-color);
 
+}
+.list {
+list-style: none;
 }
 
 .adress-item-link:hover,
