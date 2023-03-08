@@ -4,7 +4,7 @@ color: #434455;
   
 }
 
-.header-logo {
+.header-logo link {
  color: #4d5ae5;
  font-family:"Raleway", sans-serif;
  font-weight: 800;
@@ -62,7 +62,7 @@ text-decoration:none;
 }
 
 
-.list-menu-one {
+.list-menu-one link {
 font-family:"Raleway", sans-serif;
 font-style: normal;
 font-weight: 500;
