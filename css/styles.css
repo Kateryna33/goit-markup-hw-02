@@ -92,13 +92,12 @@ line-height: 1.5;
 
 }
 
-.contact-menu:hover{
+.adress-item-link:hover{
 color: var(#404bbf);
 }
 
-.contact-menu:focus {
+.adress-item-lin:focus {
 color: var(#404bbf);
-
 }
  
 .hero-section {
