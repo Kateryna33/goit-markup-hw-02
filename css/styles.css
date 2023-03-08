@@ -58,10 +58,11 @@ font-style: normal;
 
 .list-menu-one {
     color: var(--modal-overlay-color);
+    font-weight: 500;
 }
 
-.list-menu:hover,
-.list-menu:focus {
+.list-menu-one:hover,
+.list-menu-one:focus {
 color: var(--pressed-state-color);
 
 }
@@ -86,12 +87,17 @@ list-style: none;
 
 .adress-item-link:hover,
 .adress-item-link:focus {
-color: var(--text-color);
+color: var(--pressed-state-color);
 }
 
 .adress-item-link {
     color:  var(--text-color);
+
 } 
+
+.adress {
+    font-style: normal;
+}
 .hero-section {
 background-color: var(--hero-background-color);
 }
@@ -122,18 +128,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 }
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  }
+
 
 
 
