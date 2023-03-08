@@ -1,3 +1,16 @@
+:root {
+    --primery-brand-color: #4D5AE5;
+    --pressed-state-color: #404BBF;
+    --dark-color: #2E2F42;
+    --succes-color: #31D0AA;
+    --text-color: #434455;
+    --subtle-text-color: #8E8F99;
+    --accent-color: #E7E9FC;
+    --light-color: #F4F4FD;
+    --modal-overlay-color: #2E2F42;
+    --hero-background-color: #2E2F42;
+    --primery-bcg-color: #FFFFFF;
+}
 .body {
 font-family: 'Roboto', sans-serif;
 color: #434455; 
@@ -67,7 +80,7 @@ text-decoration:none;
 }
 
 
-.list-menu-one link {
+.list-menu-one {
 font-family:"Raleway", sans-serif;
 font-style: normal;
 font-weight: 500;
@@ -89,11 +102,8 @@ color: #434455;
 text-decoration:none;
 list-style:none;
 line-height: 1.5;
+}
 
-}
-:root {
-    color: var(#404bbf);      
-}
 .adress-item-link:hover{
 color: var(#404bbf);
 }
@@ -141,8 +151,6 @@ font-weight: 500;
 font-size: 16px;
 letter-spacing: 0.04em;
 color: #FFFFFF;
-
-
 }
 
 .title {
