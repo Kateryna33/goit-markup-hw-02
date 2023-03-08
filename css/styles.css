@@ -17,7 +17,7 @@ color: var(--text-color);
 background-color: var(--primery-bcg-color);
 font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
   
 }
 
@@ -110,16 +110,12 @@ left: 636px;
 top: 428px;
 display: block;
 margin: 0 auto;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
 }
 
-.button {
-font-family: 'inferit';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-letter-spacing: 0.04em;
-color: #FFFFFF;
-}
+
 
 .title {
 font-family: 'inferit';
