@@ -36,6 +36,10 @@ text-transform: uppercase;
 color: #4d5ae5;
 text-decoration: none;
 }
+
+.link {
+text-decoration:none;  
+}
 .list-menu:hover {
     color: #404bbf;
     text-decoration:none;
