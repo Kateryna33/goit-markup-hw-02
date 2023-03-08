@@ -91,6 +91,15 @@ list-style:none;
 line-height: 1.5;
 
 }
+
+.contact-menu:hover{
+color: var(#404bbf);
+}
+
+.contact-menu:focus {
+color: var(#404bbf);
+
+}
  
 .hero-section {
 background: #2E2F42;
