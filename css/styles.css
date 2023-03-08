@@ -50,15 +50,15 @@ text-decoration: none;
 text-decoration:none;
 }
 
-.page-header:hover {
+.header-logo:hover {
     color: #404bbf;
 }
-.navigation-logo:focus {
+.header-logo:focus {
     color: #404bbf;
 }
 
 
-.list-menu-link {
+.list-menu-one {
 font-family:"Raleway", sans-serif;
 font-style: normal;
 font-weight: 500;
