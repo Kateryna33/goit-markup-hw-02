@@ -70,7 +70,7 @@ line-height: 1.5;
 list-style:none;
 }
 
-.link-menu {
+.contact-menu {
 font-family:'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -149,7 +149,8 @@ line-height: 1.5;
 
 ul, 
 ol {
-    list-style:none;    
+    list-style:none;  
+    text-decoration:none;  
 }
 
 .section-our-work-list {
@@ -247,7 +248,7 @@ letter-spacing: 0.04em;
 cursor: pointer;
 }
 
-.list-menu-link {
+.list-menu-one {
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
