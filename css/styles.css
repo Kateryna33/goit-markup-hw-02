@@ -286,6 +286,7 @@ list-style:none
 }
 .button-section-list {
 list-style:none;
+
 }
 
 .btn-active-another {
@@ -301,6 +302,18 @@ font-style:normal;
 list-style:none
 }
 
+.list-menu-section {
+color: #4D5AE5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer;
+font-style:normal;
+list-style:none  
+}
+
 .menu-work-foto {
 color: #2e2f42;
 font-family: "Roboto", sans-serif;
@@ -309,6 +322,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 cursor: pointer;
+text-decoration: none;
 }
 
 .text-foto {
@@ -318,4 +332,8 @@ font-style: normal;
 letter-spacing: 0.02em;
 font-size: 16px;
 color: #434455;
+text-decoration: none;
+}
+.link {
+    text-decoration: none;
 }
