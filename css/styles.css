@@ -11,11 +11,13 @@ color: #434455;
  font-size: 18px;
  line-height: 1.17;
  letter-spacing: 0.03em;
- text-decoration:none;
  text-transform: uppercase;
 }
+
+.link {
+    text-decoration: none;
+ }
 .header-studio {
-text-decoration:none;
 font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: 800;
@@ -37,9 +39,7 @@ color: #4d5ae5;
 text-decoration: none;
 }
 
-.link {
-text-decoration:none;  
-}
+
 .list-menu:hover {
     color: #404bbf;
     text-decoration:none;
