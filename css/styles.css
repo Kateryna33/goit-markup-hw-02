@@ -69,7 +69,9 @@ color: var(--pressed-state-color);
 color: var(--pressed-state-color);
 }
 
+.navigation {
     
+}    
 
 .contact-menu {
 color: var(--text-color);
