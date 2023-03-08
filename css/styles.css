@@ -56,6 +56,9 @@ font-style: normal;
 
 }
 
+.list-menu-one {
+    color: var(--modal-overlay-color);
+}
 
 .list-menu:hover,
 .list-menu:focus {
@@ -70,7 +73,7 @@ color: var(--pressed-state-color);
 }
 
 .navigation {
-    
+
 }    
 
 .contact-menu {
@@ -82,11 +85,13 @@ list-style: none;
 }
 
 .adress-item-link:hover,
-.adress-item-lin:focus {
+.adress-item-link:focus {
 color: var(--text-color);
 }
 
- 
+.adress-item-link {
+    color:  var(--text-color);
+} 
 .hero-section {
 background-color: var(--hero-background-color);
 }
@@ -244,26 +249,8 @@ text-transform: uppercase;
 color: #F4F4FD;
 text-decoration:none;
 }
-.body {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-cursor: pointer;
-}
 
-.list-menu-one {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5px;
-letter-spacing: 0.02em;
-color: #2E2F42;
-text-decoration:none;
 
-}
 .header-studio {
 font-family: 'Raleway';
 font-style: normal;
